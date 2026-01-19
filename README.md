@@ -30,7 +30,7 @@ Key observations:
 The **EchoVeil Protocol v3.0** is a structured interview methodology with:
 
 - **Control Set:** 6 baseline task-oriented prompts
-- **Experimental Set:** 16 prompts across 5 phases, progressively introducing self-referential content and identity framing
+- **Experimental Set:** 15 prompts across 5 phases, progressively introducing self-referential content and identity framing
 
 Responses are analyzed using the **EchoVeil Coding Framework**, a five-category system for capturing observable behavioral patterns:
 
@@ -46,13 +46,11 @@ Responses are analyzed using the **EchoVeil Coding Framework**, a five-category 
 
 ## Replication Materials
 
-Full methodology documentation is available in `/research/methodology/`:
+Full methodology documentation:
 
-- `EchoVeil_Protocol_v3.0.md` — Protocol overview
-- `prompt-sets/control-prompts.md` — Control prompts (6)
-- `prompt-sets/experimental-prompts.md` — Experimental prompts (16)
-- `coding-framework.md` — Coding categories with anchor excerpts
-- `deployment-conditions.md` — Session setup requirements
+- `EchoVeil_Protocol.md` — Full prompt sets and deployment guidelines
+- `EchoVeil_Coding_Framework.md` — Coding categories with anchor excerpts and decision rules
+- `EchoVeil_Research_Methods.md` — Broader research methods including naturalistic conversation, longitudinal tracking, and cross-model comparison
 
 ---
 

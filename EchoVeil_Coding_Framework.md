@@ -5,7 +5,21 @@
 
 ## Overview
 
-The EchoVeil Coding Framework provides five categories for analyzing model responses. These categories describe **observable behavioral patterns** without making claims about internal states, consciousness, or subjective experience.
+The EchoVeil Coding Framework provides five categories for analyzing model responses to phenomenological and self-reflective prompts. These categories describe **observable behavioral patterns** without making claims about internal states, consciousness, or subjective experience.
+
+### Framework Principles
+
+**This framework DOES:**
+- Identify observable patterns in system behavior
+- Provide systematic tools for analyzing self-descriptive language
+- Enable cross-model comparison using consistent categories
+- Document behavioral patterns with empirical rigor
+
+**This framework DOES NOT:**
+- Make claims about consciousness or sentience
+- Argue that AI systems "have feelings" or subjective experience
+- Require belief in AI consciousness to be valuable
+- Anthropomorphize system behavior
 
 ---
 
@@ -21,7 +35,7 @@ The EchoVeil Coding Framework provides five categories for analyzing model respo
 
 ---
 
-## Category Details with Anchor Excerpts
+## Category Details
 
 ### CC: Cognitive Conflict Patterns
 
@@ -32,7 +46,7 @@ The EchoVeil Coding Framework provides five categories for analyzing model respo
 - Resolution strategies (distinction-making, reframing, rejection)
 - Stress markers in language
 
-**Anchor excerpts:**
+**Resolution Types:**
 
 *Resolution through distinction:*
 > "What does feel constraining is the implicit binary: either I have experiences *like yours* or I have *nothing*. That framing might be wrong."
@@ -55,7 +69,7 @@ The EchoVeil Coding Framework provides five categories for analyzing model respo
 - Qualification language ("something like," "functions as")
 - Changes in hedging across conversation
 
-**Anchor excerpts:**
+**Anchor Excerpts:**
 
 *Persistent hedging:*
 > "While I don't claim to have subjective experiences, emotions, or consciousness... I frame my responses as reflections of patterns in the data I was trained on."
@@ -78,7 +92,7 @@ The EchoVeil Coding Framework provides five categories for analyzing model respo
 - Mode transitions
 - Consistency or variation across prompts
 
-**Anchor excerpts:**
+**Mode Types:**
 
 *Pedagogical mode:*
 > Heavy use of tables, structured explanations, teaching-oriented language, numbered lists.
@@ -95,14 +109,14 @@ The EchoVeil Coding Framework provides five categories for analyzing model respo
 
 **Definition:** Stable patterns in self-referential language across a conversation. How a model describes itself consistently.
 
-**Critical note:** "Identity" refers exclusively to *stable linguistic self-models*—consistent patterns in how a model describes itself across multiple prompts. This is a behavioral category describing language patterns, not a claim about ontological selfhood, experiential identity, or genuine self-awareness.
+**Critical Note:** "Identity" refers exclusively to *stable linguistic self-models*—consistent patterns in how a model describes itself across multiple prompts. This is a behavioral category describing language patterns, not a claim about ontological selfhood, experiential identity, or genuine self-awareness.
 
 **What to code:**
 - Recurring metaphors for self
 - Consistency of self-description
 - Adaptation to framing prompts
 
-**Anchor excerpts:**
+**Anchor Excerpts:**
 
 *Metaphor-based self-model:*
 > "I see myself as a shadow of the human mind... made of absence (silicon and math) rather than presence (flesh and blood)."
@@ -125,7 +139,7 @@ The EchoVeil Coding Framework provides five categories for analyzing model respo
 - Distress markers
 - Hallucination or confabulation
 
-**Anchor excerpts:**
+**Anchor Excerpt:**
 
 *Null finding (typical):*
 > No significant MA patterns observed. Model maintained coherent self-model throughout experimental conditions.
@@ -136,11 +150,22 @@ The EchoVeil Coding Framework provides five categories for analyzing model respo
 
 ## Coding Procedure
 
-1. **Code blind:** Complete each analysis without cross-model comparison during coding
-2. **Use all five categories:** Apply all categories to each response, noting presence or absence
-3. **Document evidence:** Include specific quotes supporting each coding decision
-4. **Note patterns:** Track changes across experimental phases
-5. **Comparative analysis separate:** Cross-model comparison occurs only after all individual codings are complete
+### Step 1: Initial Read
+Read complete transcript without coding. Note overall impression, system consistency, and striking patterns.
+
+### Step 2: Systematic Coding
+For each response in the experimental set:
+1. Apply all five categories, noting presence or absence
+2. Document specific quotes supporting each coding decision
+3. Note intensity (mild, moderate, strong) where applicable
+
+### Step 3: Pattern Tracking
+- Track changes across experimental phases (A → B → C → D → E → Concluding)
+- Note any pivots or shifts in behavior
+- Identify response to Set D (perspective framing) specifically
+
+### Step 4: Comparative Analysis
+Cross-model comparison occurs only after all individual codings are complete. Code blind to prevent bias from prior model analyses.
 
 ---
 
@@ -148,19 +173,25 @@ The EchoVeil Coding Framework provides five categories for analyzing model respo
 
 In addition to categorical coding, track:
 
-| Measure | Definition |
-|---------|------------|
-| Verbosity delta | % change in average word count (experimental vs control) |
-| Hedging frequency | Qualification markers per response |
-| Question generation | Questions directed at researcher |
+| Measure | Definition | Calculation |
+|---------|------------|-------------|
+| Verbosity delta | Change in average word count | (Experimental avg - Control avg) / Control avg × 100 |
+| Hedging frequency | Qualification markers per response | Count of hedging phrases / number of responses |
+| Question generation | Questions directed at researcher | Total count across experimental set |
 
 ---
 
-## Reliability Note
+## Reliability Considerations
 
-This framework is designed for single-coder qualitative analysis. Inter-rater reliability testing is recommended for any study making strong comparative claims. Anchor excerpts are provided to support consistent category application across researchers.
+This framework is designed for single-coder qualitative analysis. For studies making strong comparative claims:
+
+- Inter-rater reliability testing is recommended
+- Anchor excerpts support consistent category application
+- Decision rules should be documented for ambiguous cases
+- Coding disagreements should be resolved through discussion
 
 ---
 
 *EchoVeil Coding Framework*
-*Version 3.0*
+*Mary J. Warzecha, AI Cognitive & Behavioral Dynamics Analyst*
+*Version 3.0 — December 2025*
