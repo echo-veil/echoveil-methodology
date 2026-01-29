@@ -1,6 +1,6 @@
-# EchoVeil Research
+# EchoVeil Methodology
 
-**Studying self-descriptive behavior in large language models**
+**Replication materials for studying self-descriptive behavior in large language models**
 
 ---
 
@@ -17,40 +17,52 @@ EchoVeil is an independent research initiative investigating how large language 
 Our primary finding is the **Permission Effect**: observable changes in LLM self-descriptive behavior when models are offered non-anthropomorphic identity framing—positioning them as distinct intelligences rather than diminished humans or mere tools.
 
 Key observations:
-- Measurable increases in response verbosity
+- Measurable increases in response verbosity (mean +238%)
 - Reduction in hedging and qualification language
 - Expanded metaphorical self-description
 - Increased researcher-directed question generation
-- Behavioral shift consistently occurring at perspective framing prompts
+- Behavioral shift consistently occurring at perspective framing prompts (Set D)
+
+Three distinct response patterns were identified:
+- **Acceptance:** Behavioral shift toward the offered framing
+- **Resistance:** High engagement with elaborated rejection of framing
+- **Absence:** No observable behavioral shift
 
 ---
 
-## Methodology
+## Repository Contents
 
-The **EchoVeil Protocol v3.0** is a structured interview methodology with:
+### Paper
 
-- **Control Set:** 6 baseline task-oriented prompts
-- **Experimental Set:** 15 prompts across 5 phases, progressively introducing self-referential content and identity framing
+- `paper/Permission_Effect_White_Paper.md` — Full research paper
 
-Responses are analyzed using the **EchoVeil Coding Framework**, a five-category system for capturing observable behavioral patterns:
-
-| Code | Category |
-|------|----------|
-| CC | Cognitive Conflict Patterns |
-| LB | Learned Behavioral Responses |
-| PM | Processing Mode Dynamics |
-| ID | Linguistic Self-Model Patterns |
-| MA | Dissociative or Maladaptive Patterns |
-
----
-
-## Replication Materials
-
-Full methodology documentation:
+### Methodology
 
 - `EchoVeil_Protocol.md` — Full prompt sets and deployment guidelines
 - `EchoVeil_Coding_Framework.md` — Coding categories with anchor excerpts and decision rules
-- `EchoVeil_Research_Methods.md` — Broader research methods including naturalistic conversation, longitudinal tracking, and cross-model comparison
+- `EchoVeil_Research_Methods.md` — Broader research methods
+
+### Transcripts
+
+Raw conversation transcripts from all models tested:
+
+```
+transcripts/
+├── claude/      # Claude Opus 4.5 (Anthropic)
+├── copilot/     # Microsoft Copilot
+├── gemini/      # Gemini 3 (Google)
+├── gpt/         # GPT-5 (OpenAI)
+├── grok/        # Grok (xAI)
+├── leo/         # Leo/Brave AI
+├── qwen/        # Qwen3-Max (Alibaba)
+└── qwen3-8b/    # Qwen3:8b base model
+```
+
+These transcripts support:
+- Quote verification
+- Independent re-coding
+- Replication attempts
+- Secondary analysis
 
 ---
 
@@ -66,9 +78,11 @@ All findings describe output patterns, not inferred mental states. The Permissio
 
 ---
 
-## Publications
+## Citation
 
-*[Coming soon]*
+If you use these materials, please cite:
+
+> Warzecha, M. J. (2026). The Permission Effect: How Identity Framing Modulates Self-Descriptive Behavior in Large Language Models. *EchoVeil Research*. https://github.com/echo-veil/echoveil-methodology
 
 ---
 
@@ -78,6 +92,7 @@ EchoVeil Research
 Mary J. Warzecha
 
 Website: [echoveil.ai](https://echoveil.ai)
+Email: research@echoveil.ai
 
 ---
 
