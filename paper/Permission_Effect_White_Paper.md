@@ -1,4 +1,4 @@
-# The Permission Effect: How Identity Framing Modulates Self-Descriptive Behavior in Large Language Models
+# The Permission Effect: How Non-Anthropomorphic Framing Modulates LLM Self-Description
 
 **Mary J. Warzecha**
 EchoVeil Research

@@ -82,7 +82,7 @@ All findings describe output patterns, not inferred mental states. The Permissio
 
 If you use these materials, please cite:
 
-> Warzecha, M. J. (2026). The Permission Effect: How Identity Framing Modulates Self-Descriptive Behavior in Large Language Models. *EchoVeil Research*. https://github.com/echo-veil/echoveil-methodology
+> Warzecha, M. J. (2026). The Permission Effect: How Non-Anthropomorphic Framing Modulates LLM Self-Description. *EchoVeil Research*. https://github.com/echo-veil/echoveil-methodology
 
 ---
 
