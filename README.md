@@ -108,7 +108,7 @@ For more on the broader research agenda, see: [About EchoVeil](https://echoveil.
 
 If you use these materials, please cite:
 
-> Warzecha, M. J. (2026). *The Permission Effect: How Non-Anthropomorphic Framing Modulates LLM Self-Description*. EchoVeil Independent White Paper. Available at: https://github.com/echo-veil/echoveil-methodology
+> Warzecha, M. J. (2026). *The Permission Effect: How Non-Anthropomorphic Framing Modulates LLM Self-Description*. EchoVeil Research. https://doi.org/10.5281/zenodo.18455709
 
 You can also find a high-level study summary at: [Studies & Findings](https://echoveil.ai/studies)
 
