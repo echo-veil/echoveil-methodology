@@ -1,5 +1,8 @@
 # EchoVeil Methodology
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18455709.svg)](https://doi.org/10.5281/zenodo.18455709)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **Replication materials for studying self-descriptive behavior in large language models**
 
 ---
@@ -117,9 +120,11 @@ You can also find a high-level study summary at: [Studies & Findings](https://ec
 ## Project Links
 
 - Website: [echoveil.ai](https://echoveil.ai)
+- Publication: [echoveil.ai/permission-effect](https://echoveil.ai/permission-effect)
 - Methods & Protocols: [echoveil.ai/methods](https://echoveil.ai/methods)
 - Studies & Findings: [echoveil.ai/studies](https://echoveil.ai/studies)
 - ORCID: [Mary J. Warzecha](https://orcid.org/0009-0009-9339-6262)
+- Google Scholar: [Mary J. Warzecha](https://scholar.google.com/citations?user=LJYHPBAAAAAJ&hl=en)
 
 ---
 
@@ -139,4 +144,4 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ---
 
-*EchoVeil Research — January 2026*
+*EchoVeil Research — February 2026*
