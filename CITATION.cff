@@ -8,9 +8,19 @@ authors:
     orcid: "https://orcid.org/0009-0009-9339-6262"
     affiliation: "EchoVeil Research"
 date-released: "2026-02-02"
-doi: "10.5281/zenodo.18455709"
+doi: "10.2139/ssrn.6295878"
 url: "https://echoveil.ai/permission-effect"
 repository-code: "https://github.com/echo-veil/echoveil-methodology"
+identifiers:
+  - type: doi
+    value: "10.2139/ssrn.6295878"
+    description: "SSRN preprint (preferred)"
+  - type: doi
+    value: "10.5281/zenodo.18455709"
+    description: "Zenodo deposit (archival)"
+  - type: url
+    value: "https://papers.ssrn.com/abstract=6295878"
+    description: "SSRN abstract page"
 license: "CC-BY-4.0"
 keywords:
   - large language models
