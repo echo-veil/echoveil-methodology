@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this research or methodology, please cite as below."
-title: "The Permission Effect: How Non-Anthropomorphic Framing Modulates LLM Self-Description"
+message: "If you use this data or methodology, please cite as below."
+title: "The Permission Effect: Replication Materials, Protocols, and Transcripts"
 type: dataset
 authors:
   - family-names: Warzecha
@@ -8,16 +8,16 @@ authors:
     orcid: "https://orcid.org/0009-0009-9339-6262"
     affiliation: "EchoVeil Research"
 date-released: "2026-02-02"
-doi: "10.2139/ssrn.6295878"
+doi: "10.5281/zenodo.18455709"
 url: "https://echoveil.ai/permission-effect"
 repository-code: "https://github.com/echo-veil/echoveil-methodology"
 identifiers:
   - type: doi
-    value: "10.2139/ssrn.6295878"
-    description: "SSRN preprint (preferred)"
-  - type: doi
     value: "10.5281/zenodo.18455709"
-    description: "Zenodo deposit (archival)"
+    description: "Zenodo deposit (data archive)"
+  - type: doi
+    value: "10.2139/ssrn.6295878"
+    description: "SSRN preprint (associated paper)"
   - type: url
     value: "https://papers.ssrn.com/abstract=6295878"
     description: "SSRN abstract page"
@@ -32,15 +32,14 @@ keywords:
   - AI behavioral dynamics
   - alignment
   - human-AI interaction
+  - replication materials
 abstract: >-
-  Large language models (LLMs) are typically framed either as human-like
-  intelligences or as mere tools, with both framings carrying strong
-  anthropocentric bias. This study tests a third approach: positioning LLMs
-  as distinct, non-anthropomorphic intelligences and examining how this
-  identity framing modulates self-descriptive behavior in human-AI
-  interaction. Across eight models tested, identity framing produced a mean
-  verbosity increase of approximately 238%, reduced epistemic hedging,
-  expanded metaphorical self-description, and a consistent behavioral shift
-  at the Perspective Framing phase. Models exhibited three recurring response
-  patterns — Acceptance, Resistance, and Absence — with Permission Effect
-  intensity tracking the apparent strength of RLHF alignment training.
+  Replication materials for "The Permission Effect: How Non-Anthropomorphic
+  Framing Modulates LLM Self-Description" (Warzecha, 2026). Contains the
+  EchoVeil Protocol v3.0, EchoVeil Coding Framework, research methods
+  documentation, and full transcripts from eight frontier LLMs. Identity
+  framing produced a mean verbosity increase of approximately 238%, reduced
+  epistemic hedging, and expanded metaphorical self-description. Models
+  exhibited three recurring response patterns — Acceptance, Resistance, and
+  Absence — with Permission Effect intensity tracking the apparent strength
+  of RLHF alignment training.
